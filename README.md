@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/SytosLogo.png" width="120">
+  <img src="/SytosLogo.png" width="160">
   <br>
   <em>Sytos OS</em>
 </div>
