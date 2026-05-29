@@ -22,3 +22,6 @@
 * Default Password: `sytos`
 * You can download Sytos OS (root.tar.gz ≈5Gb) using the links below:
   [Google Drive: Sytos x64](https://drive.google.com/file/d/1KeGob7ncpttPVutw93Hj94J4RfYxwMkC/view?usp=drivesdk)
+
+## GZ Image
+You can reinstall your OS via [bin456789/reinstall] (https://github.com/bin456789/reinstall/) by using this GZ Image
