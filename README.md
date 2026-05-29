@@ -5,8 +5,8 @@
 </div>
 
 # Information
-It is an custom operating system based on Ubuntu.
-Sytos OS is currently at version 10.1.
+* It is an custom operating system based on Ubuntu.
+* Sytos OS is currently at version 10.1.
 # Download Sytos
 ## Docker
 
