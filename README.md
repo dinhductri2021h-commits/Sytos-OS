@@ -21,6 +21,7 @@
 * Default Username: `root`
 * Default Password: `sytos`
 * You can download Sytos OS (root.tar.gz ≈5Gb) using the links below:
+
   [Google Drive: Sytos x64](https://drive.google.com/file/d/1KeGob7ncpttPVutw93Hj94J4RfYxwMkC/view?usp=drivesdk)
 
 ## GZ Image
