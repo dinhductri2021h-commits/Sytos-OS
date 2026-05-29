@@ -17,7 +17,7 @@
 
 ## Raw Image
 * Raw images can be booted from a hard drive.
-### Credentials 
+* Credentials:
 * Default Username: `root`
 * Default Password: `sytos`
 * You can download Sytos OS (root.tar.gz ≈5Gb) using the links below:
