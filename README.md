@@ -6,14 +6,14 @@
 
 # Information
 * It is an custom operating system based on Ubuntu.
-* Sytos OS is currently at version 10.1.
+* Sytos OS is currently at version 10.2.
 # Download Sytos
 ## Docker
 [Docker Hub: ductris/sytos](https://hub.docker.com/repository/docker/ductris/sytos/general)
 ## Rootfs
-You can download Sytos OS (root.tar.gz ≈1Gb ) using the links below:
+You can download Sytos OS (root.tar.gz ≈1.3Gb ) using the links below:
 
-[Google Drive: Sytos x64](https://drive.google.com/file/d/12C5IqOLBnjuNggic8gZKOHe5hcWSkFV0/view?usp=drivesdk)
+[Google Drive: Sytos x64](https://drive.google.com/file/d/1yfNArvXsA5wsKqeF9qAwpnFqNipW0k9s/view?usp=drive_link)
 
 ## Raw Image
 Raw images can be booted from a hard drive.
